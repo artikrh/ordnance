@@ -39,7 +39,9 @@ In case you want to specify a web path, for example `/home/index.php`:
 `$ ./ordnance.py --host 127.0.0.1 -d home/index.php` 
 
 ## Disclaimer
-
 ```
-[!] Legal disclaimer: Usage of this script for attacking targets without prior mutual consent is illegal. It is the end user's responsibility to obey all applicable local, state and federal laws. I assume no liability and are not responsible for any misuse or damage caused.
+[!] Legal disclaimer: Usage of this script for attacking targets without
+prior mutual consent is illegal. It is the end user's responsibility
+to obey all applicable local, state and federal laws. I assume
+no liability and are not responsible for any misuse or damage caused.
 ```
