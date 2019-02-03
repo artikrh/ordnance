@@ -1,7 +1,7 @@
 # ordnance [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 Python script to perform layer 7 stress test on your web server.  
 
-
+[![asciicast](https://asciinema.org/a/pOMdeF7iJJApC05N5mBv9DtSZ.png)](https://asciinema.org/a/pOMdeF7iJJApC05N5mBv9DtSZ)
 
 ## Installation
 
